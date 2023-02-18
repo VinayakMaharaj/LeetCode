@@ -9,3 +9,5 @@ class Solution:
             else:
                 repeats[num] = 1
         return pairs
+
+# O(n) time complexity O(n) space complexity
